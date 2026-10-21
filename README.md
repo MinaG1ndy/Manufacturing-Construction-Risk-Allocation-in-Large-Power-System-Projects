@@ -28,3 +28,6 @@ The lifecycle model is about tracking each component from the first procurement 
 6- Installation and integration (Mechanical and electrical connections, cable termination, alignment, protection settings, and coordination)
 7- Commissioning and handover (Site acceptance tests, integrated functional tests, energization, documentation, and defects)
 8- Operation and Maintenance (Reliability, spare parts, maintainability, warranty, and lifecycle support)
+
+What changes when work moves from site to factory?
+<img width="666" height="646" alt="Screenshot 2026-10-22 012545" src="https://github.com/user-attachments/assets/458f0576-3b96-4829-ac97-91b69abfdadd" />
